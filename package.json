@@ -1,0 +1,27 @@
+{
+  "name": "responsive-css-only-carousel",
+  "version": "1.0.0",
+  "description": "Responsive CSS-Only Carousel",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ninanathalie/responsive-css-only-carousel-slider.git"
+  },
+  "keywords": [
+    "Responsive",
+    "CSS",
+    "Carouse",
+    "Pure",
+    "CSS",
+    "Carousel"
+  ],
+  "author": "Niña Nathalie",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/ninanathalie/responsive-css-only-carousel-slider/issues"
+  },
+  "homepage": "https://github.com/ninanathalie/responsive-css-only-carousel-slider#readme"
+}
